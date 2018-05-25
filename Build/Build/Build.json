@@ -2,8 +2,6 @@
 "companyName": "DefaultCompany",
 "productName": "Unity-WebVR-Export",
 "dataUrl": "Build.data.unityweb",
-"wasmCodeUrl": "Build.wasm.code.unityweb",
-"wasmFrameworkUrl": "Build.wasm.framework.unityweb",
 "asmCodeUrl": "Build.asm.code.unityweb",
 "asmMemoryUrl": "Build.asm.memory.unityweb",
 "asmFrameworkUrl": "Build.asm.framework.unityweb",
